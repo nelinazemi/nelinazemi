@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Niloofar! 👋  
 
-<!--
-**nelinazemi/nelinazemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Data Analyst | Deep Learning & Machine Learning Enthusiast**  
+📍 Based in Shiraz, Iran  
 
-Here are some ideas to get you started:
+I specialize in analyzing data and building impactful solutions using advanced **Deep Learning** and **Machine Learning** techniques. Sharing knowledge is my passion, and I frequently upload projects to help others in their learning journey.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills  
+- **Programming:** Python  
+- **Frameworks & Tools:** PyTorch, Jupyter Notebooks  
+- **Expertise:** Deep Learning, Machine Learning  
+
+### 🌱 What I Do  
+- Develop and share open-source projects for ML/DL tasks  
+- Analyze data and deliver actionable insights  
+- Explore and implement cutting-edge techniques in AI  
+
+📫 Let's connect:  
+- [GitHub Projects](https://github.com/yourusername)  
+- Email: your.email@example.com  
