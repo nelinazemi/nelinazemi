@@ -16,5 +16,4 @@ I specialize in analyzing data and building impactful solutions using advanced *
 - Explore and implement cutting-edge techniques in AI  
 
 📫 Let's connect:  
-- [GitHub Projects](https://github.com/yourusername)  
-- Email: your.email@example.com  
+- [GitHub Projects](https://github.com/nelinazemi)  
